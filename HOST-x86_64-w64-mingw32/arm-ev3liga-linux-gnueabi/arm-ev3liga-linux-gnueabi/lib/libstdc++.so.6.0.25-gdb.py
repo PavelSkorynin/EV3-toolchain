@@ -1,0 +1,1 @@
+../../arm-ev3liga-linux-gnueabi/sysroot/lib/libstdc++.so.6.0.25-gdb.py
