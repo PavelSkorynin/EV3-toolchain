@@ -1,2 +1,2 @@
 # EV3-toolchain
-C++ toolchain for EV3
+C++17 toolchain for EV3
